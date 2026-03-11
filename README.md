@@ -1,2 +1,2 @@
-# TFG
-Presentación de mi TFG de ASIR, un sistema de ventas, inventario y facturación (con MVC).
+# ASIR_TFG1
+Sistema de Ventas, Inventario y Facturación (con MVC).
